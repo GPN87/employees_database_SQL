@@ -1,2 +1,2 @@
-#Challenge data files ignored
-*.csv
+#
+**/.DS_Store
