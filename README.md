@@ -20,8 +20,8 @@ The activity consolidated the concept of primary keys, foreign keys and composit
 
 ## How to run
 Clone this repo in git using the this command:
-'''
-git clone https://github.com/GPN87/modelling_and_analysis_SQL.git 
+'''git
+git clone https://github.com/GPN87/modelling_and_analysis_SQL.git
 '''
 
 Repository contains a .gitignore file that ignores .DS_Store files.
